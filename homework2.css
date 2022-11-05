@@ -1,23 +1,23 @@
 .box {
     font-size: 32px;
     margin-bottom: 100px;
-    margin-left: 100px
-    margin-right: 100px
+    margin-left: 100px;
+    margin-right: 100px;
     padding-top: 50px;
     padding-bottom: 50px;
-    padding-right:50px
-    padding-left:50px
+    padding-right:50px;
+    padding-left:50px;
 }
-Roblox {
+#roblox {
   background-color:red;
 }
-Doors {
+#doors {
   background-color:blue;
 } 
-Piggy {
-  background-color:yellow;
+#piggy {
+    background-color:yellow;
 }
-Bedwars {
+#bedwars {
   background-color:green;
 }
       
