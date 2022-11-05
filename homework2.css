@@ -1,6 +1,23 @@
-.body
-  Roblox {
+.box {
     font-size: 32px;
     margin-bottom: 100px;
     margin-left: 100px
-    
+    margin-right: 100px
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right:50px
+    padding-left:50px
+}
+Roblox {
+  background-color:red;
+}
+Doors {
+  background-color:blue;
+} 
+Piggy {
+  background-color:yellow;
+}
+Bedwars {
+  background-color:green;
+}
+      
