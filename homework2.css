@@ -7,12 +7,22 @@
     padding-bottom: 50px;
     padding-right:50px;
     padding-left:50px;
+    
 }
 #roblox {
   background-color:red;
+    border: 100px;
+    border-style: dotted;
+    border-color: purple;
+    height: 400px;
+    width: 400px;
 }
 #doors {
   background-color:blue;
+   border: 10px dotted blue;
+    width: 400px;
+    height: 400px;
+    
 } 
 #piggy {
     background-color:yellow;
